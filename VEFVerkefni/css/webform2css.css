@@ -1,0 +1,11 @@
+﻿.bulletlist {
+    list-style: none;
+    padding: 0;
+}
+
+.caldiv {
+    width: 35%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}

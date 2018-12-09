@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="VEFVerkefni.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>VEFÞ2VF05CU Verkefni</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="css/adal.css" />
+    <link rel="icon" type="image/png" href="https://i.imgur.com/JD0DmqP.png" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="content">
+            <div class="topbunk">
+                <a href="index.html" class="topbunklink">
+                    <div class="farside inline">
+                        Index site
+                    </div>
+                </a>
+                <a href="https://github.com/DonNinja/VEFVerkefni/wiki/Sk%C3%BDrsla" class="topbunklink">
+                    <div class="inline">
+                        Skýrsla
+                    </div>
+                </a>
+                <a href="https://github.com/DonNinja/VEFVerkefni" class="topbunklink">
+                    <div class="notfarright inline">
+                        Github
+                    </div>
+                </a>
+                <a href="https://github.com/DonNinja/VEFVerkefni/wiki/G%C3%B6gn" class="topbunklink">
+                    <div class="farside inline">
+                        Gögn
+                    </div>
+                </a>
+            </div>
+            <div class="MainContentDiv">
+                <div class="MainContent">
+                    <div class="sidebar">
+                        <a href="WebForm1.aspx" class="barlink">
+                            <p class="barsite">Site 1</p>
+                        </a>
+                        <a href="WebForm2.aspx" class="barlink">
+                            <p class="barsite">Site 2</p>
+                        </a>
+                        <a href="Placeholder" class="barlink">
+                            <p class="barsite">Site 3 [Linkur ekki virkur]</p>
+                        </a>
+                        <a href="Placeholder" class="barlink">
+                            <p class="barsite">Site 4 [Linkur ekki virkur]</p>
+                        </a>
+                        <a href="Placeholder" class="barlink">
+                            <p class="barsite">Site 5 [Linkur ekki virkur]</p>
+                        </a>
+                    </div>
+                    <div class="contentbar">
+                        <asp:ContentPlaceHolder ID="contentHolder" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <footer>
+
+    </footer>
+</body>
+</html>

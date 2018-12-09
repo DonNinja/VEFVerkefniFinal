@@ -1,0 +1,222 @@
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll.config
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.pdb
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe.config
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.rsp
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe.config
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.rsp
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.AppContext.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Console.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe.config
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.rsp
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csprojAssemblyReference.cache
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csproj.CoreCompileInputs.cache
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csproj.CopyComplete
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.dll
+C:\Users\Yngvi\source\repos\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.pdb
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.pdb
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.rsp
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.rsp
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.AppContext.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Collections.Immutable.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Console.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Compression.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Reflection.Metadata.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.AccessControl.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Claims.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.ValueTuple.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.rsp
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csprojAssemblyReference.cache
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csproj.CoreCompileInputs.cache
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csproj.CopyComplete
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.pdb
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll.config
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.pdb
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe.config
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.rsp
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe.config
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.rsp
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Managed.Core.targets
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.AppContext.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Collections.Immutable.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Console.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Compression.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Reflection.Metadata.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.AccessControl.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Claims.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Principal.Windows.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.ValueTuple.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XmlDocument.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe.config
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.rsp
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe.config
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.dll
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.pdb
+H:\VEFTH2\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csprojResolveAssemblyReference.cache
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\VEFVerkefni.pdb
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\csc.rsp
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\csi.rsp
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.AppContext.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Collections.Immutable.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Console.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Compression.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.IO.Pipes.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Reflection.Metadata.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.AccessControl.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Claims.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.ValueTuple.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\vbc.rsp
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\roslyn\VBCSCompiler.exe.config
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csprojAssemblyReference.cache
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csproj.CoreCompileInputs.cache
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.csproj.CopyComplete
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.dll
+E:\Everything\School_athome\VEFÞ2VF05CU\VEFVerkefni backupthing\VEFVerkefni\VEFVerkefni\obj\Release\VEFVerkefni.pdb
