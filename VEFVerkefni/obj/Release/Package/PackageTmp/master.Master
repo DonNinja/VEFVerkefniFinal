@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" href="https://i.imgur.com/JD0DmqP.png" />
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" >
         <div id="content">
             <div class="topbunk">
                 <a href="index.html" class="topbunklink">
@@ -44,14 +44,11 @@
                         <a href="WebForm2.aspx" class="barlink">
                             <p class="barsite">Site 2</p>
                         </a>
-                        <a href="Placeholder" class="barlink">
-                            <p class="barsite">Site 3 [Linkur ekki virkur]</p>
+                        <a href="WebForm3.aspx" class="barlink">
+                            <p class="barsite">Site 3</p>
                         </a>
                         <a href="Placeholder" class="barlink">
                             <p class="barsite">Site 4 [Linkur ekki virkur]</p>
-                        </a>
-                        <a href="Placeholder" class="barlink">
-                            <p class="barsite">Site 5 [Linkur ekki virkur]</p>
                         </a>
                     </div>
                     <div class="contentbar">

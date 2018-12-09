@@ -34,11 +34,8 @@
 .inline {
     display: inline-block;
     margin: 0 auto;
-<<<<<<< HEAD
     padding: .95em 0 .95em 0;
-=======
     padding: .98em 0 .98em 0;
->>>>>>> fbddf65d05b0f712cd9b35842fa1294ee84cf1d8
     width: 13em;
 }
 

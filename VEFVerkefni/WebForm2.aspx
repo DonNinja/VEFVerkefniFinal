@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿<%@ Page Title="Asp stuff and C#" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="VEFVerkefni.WebForm2" %>
-=======
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="VEFVerkefni.WebForm2" %>
->>>>>>> fbddf65d05b0f712cd9b35842fa1294ee84cf1d8
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <link rel="stylesheet" href="css/webform2css.css" />
 </asp:Content>

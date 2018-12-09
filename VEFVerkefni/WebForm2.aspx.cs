@@ -14,11 +14,7 @@ namespace VEFVerkefni
 
         }
 
-<<<<<<< HEAD
         protected void Checker_CheckedChanged(object sender, EventArgs e)
-=======
-        protected void Changed_Click(object sender, EventArgs e)
->>>>>>> fbddf65d05b0f712cd9b35842fa1294ee84cf1d8
         {
             if (Checker.Checked)
             {
